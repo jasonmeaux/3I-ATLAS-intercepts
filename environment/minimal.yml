@@ -1,0 +1,17 @@
+name: intercept
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - nodejs
+  - poliastro
+  - pykep
+  - pygmo
+  - plotly
+  - astropy
+  - jplephem
+  - moviepy
+  - pip
+  - pip:
+    - kaleido
